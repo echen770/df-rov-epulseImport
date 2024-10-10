@@ -1,0 +1,9 @@
+{
+	"name": "rov-sql-dev",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d14b785b-5a78-4c1b-876c-b7f3e01457ff",
+		"tenantId": "31399e53-6a93-49aa-8cae-c929f9d4a91d"
+	}
+}
